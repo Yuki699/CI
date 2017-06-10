@@ -13,7 +13,7 @@ namespace ConsoleApplication1
         [Test]
         public void Simple()
         {
-
+            Console.WriteLine("test 1");
         }
     }
 }
