@@ -6,10 +6,21 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+            Add(5, 2);
+        }
+
+        public static int Add(int a, int b)
+        {
+            return a + b;
+        }
+
+        public static int Minus(int a, int b)
+        {
+            return a - b;
         }
     }
 }
