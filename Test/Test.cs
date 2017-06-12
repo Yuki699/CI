@@ -15,5 +15,12 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("test 1");
         }
+
+        [Test]
+        public void Add()
+        {
+            int result = Program.Add(1, 2);
+            Assert.AreEqual(3, result);
+        }
     }
 }
