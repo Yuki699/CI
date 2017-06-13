@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{1BB83641-9D73-4C7F-A908-54DEE359EF7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTest", "UniTest\UniTest.csproj", "{A8485D64-BFFF-4D52-B541-15D552804112}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{1BB83641-9D73-4C7F-A908-54DEE359EF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BB83641-9D73-4C7F-A908-54DEE359EF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BB83641-9D73-4C7F-A908-54DEE359EF7D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A8485D64-BFFF-4D52-B541-15D552804112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A8485D64-BFFF-4D52-B541-15D552804112}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A8485D64-BFFF-4D52-B541-15D552804112}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A8485D64-BFFF-4D52-B541-15D552804112}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
