@@ -7,6 +7,7 @@ namespace ConsoleApplication1
         {
             Add(5, 2);
             System.Console.WriteLine("Test");
+            System.Console.WriteLine("cos");
         }
 
         public static int Add(int a, int b)
