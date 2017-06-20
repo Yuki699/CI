@@ -6,6 +6,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Add(5, 2);
+            System.Console.WriteLine("Test");
         }
 
         public static int Add(int a, int b)
